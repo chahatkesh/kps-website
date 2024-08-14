@@ -1,3 +1,3 @@
-## SchoolNet
+## Website for KPS Bharwari
 
-- SchoolNet is an innovative school website platform designed to streamline administrative tasks and enhance communication for students, teachers, principals, and parents. Featuring user-friendly logins, real-time updates, and comprehensive management tools, it aims to modernize school operations and improve the educational experience.
+- The new KPS Bharwari website will be a dynamic platform designed to enhance communication and management within the school. Featuring user-friendly interfaces for principals, teachers, students, and parents, it includes essential pages, advanced functionalities, and modern design elements to streamline school operations and improve the educational experience.
